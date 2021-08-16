@@ -29,7 +29,6 @@ export const getPlacesData = async (type, sw, ne) => {
     }
 }
 
-//previous api key = '2376421eb3msh9eb5fdc55ce2cd1p1474dcjsndccdb950dded'
 
 export const getWeatherData = async (lat, lng) => {
   try {
